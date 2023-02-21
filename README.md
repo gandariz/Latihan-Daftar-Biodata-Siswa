@@ -1,4 +1,4 @@
-BIODATA DI DALAM DEVELOPMENT BRANCH
+BIODATA
 ==
 Daftar-Biodata-Siswa
 ==
